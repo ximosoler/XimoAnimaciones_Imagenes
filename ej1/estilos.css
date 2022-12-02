@@ -1,0 +1,16 @@
+.img1 {
+    position: absolute;
+    width: auto;
+    height: 30px;
+    transition: opacity 2s ease-in-out;
+}
+
+.img2 {
+    width: auto;
+    height: 30px;
+
+}
+
+.img1:hover{
+    opacity: 0%;
+}
